@@ -1,0 +1,9 @@
+{
+  "name": "nemv",
+  "version": "0.0.0",
+  "private": true,
+  "author": "fkkmemi <fkkmemi@gmail.com>",
+  "scripts": {
+    "start": "node ./be/bin/www"
+  }
+}
